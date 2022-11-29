@@ -8,17 +8,17 @@ object Constants {
             false, false)
         exerciseList.add(crunches)
 
-//        val lunges = ExerciseModel(2, "Lunges", R.drawable.lunges,
-//            false, false)
-//        exerciseList.add(lunges)
-//
-//        val vUps = ExerciseModel(3, "V-Ups", R.drawable.v_ups,
-//            false, false)
-//        exerciseList.add(vUps)
-//
-//        val pushUps = ExerciseModel(4, "Push Ups", R.drawable.push_ups,
-//            false, false)
-//        exerciseList.add(pushUps)
+        val lunges = ExerciseModel(2, "Lunges", R.drawable.lunges,
+            false, false)
+        exerciseList.add(lunges)
+
+        val vUps = ExerciseModel(3, "V-Ups", R.drawable.v_ups,
+            false, false)
+        exerciseList.add(vUps)
+
+        val pushUps = ExerciseModel(4, "Push Ups", R.drawable.push_ups,
+            false, false)
+        exerciseList.add(pushUps)
         return exerciseList
 
 
